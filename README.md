@@ -1,3 +1,7 @@
+![screenshot1.png](screenshot1.png)
+![screenshot2.png](screenshot2.png)
+![screenshot3.png](screenshot3.png)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
